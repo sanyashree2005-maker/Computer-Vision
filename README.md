@@ -20,11 +20,17 @@ This project serves as a strong foundation for understanding classical image pro
 📂 Files Overview (Pipeline Order)
 
 01_image_acquisition.py      → Capture image from webcam or file
+
 02_preprocessing.py          → Grayscale conversion, denoising, enhancement
+
 03_segmentation.py           → Thresholding and contour detection
+
 04_feature_extraction.py     → ORB keypoint and descriptor extraction
+
 05_feature_matching.py       → Feature matching using BFMatcher
+
 06_post_processing.py        → Non-maximum suppression
+
 07_object_classification.py  → Area-based contour classification
 
 🛠️ Technologies Used
