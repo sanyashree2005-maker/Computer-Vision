@@ -10,3 +10,4 @@ cap.release()
 cv2.imshow('Acquired Image', frame)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
