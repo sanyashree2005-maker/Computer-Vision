@@ -89,8 +89,4 @@ The project extracts meaningful insights from video streams, such as movement pa
 This repository is intended for **learning, experimentation, and demonstration** of computer vision concepts, making it useful for students, researchers, and practitioners exploring vision-based systems.
 
 
-* Add **folder structure explanation**
-* Add **badges (Python, OpenCV, Deep Learning)**
-* Rewrite it to sound **more academic or more industry-focused**
 
-Just tell me how you want it ✨
